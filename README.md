@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning AWS and Devops
+🌱 I’m currently learning AWS and Devops <br>
 📫 How to reach me: nikhilvaibhav14@gmail.com
 <!--
 **Nikhilvaibhav14/Nikhilvaibhav14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
